@@ -13,7 +13,7 @@
       "name": "dev",
       "command": "yarn dev",
       "runAtStart": true
-    },
+    },l
     "build": {
       "name": "build",
       "command": "yarn build"
