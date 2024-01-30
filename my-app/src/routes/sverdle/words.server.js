@@ -26,7 +26,7 @@ export const words = [
 	'adobe',
 	'adopt',
 	'adore',
-'adorn',
+	'adorn',
 	'adult',
 	'affix',
 	'afire',
